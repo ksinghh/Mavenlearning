@@ -11,6 +11,7 @@ public class FirstMavenClass {
 			
 		}
         for (int k = 0; k < arr1.length; k++) { 
+        	System.out.println("hhhhhh");
             System.out.println(newarr[k]); 
         }		
 	}
